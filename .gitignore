@@ -1,0 +1,7 @@
+sum.exe
+SumatraPDF-settings.txt
+venv
+dist
+build
+__pycache__
+reader.spec
